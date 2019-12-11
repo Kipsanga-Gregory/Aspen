@@ -1,0 +1,12 @@
+C:\Users\Biwott\source\repos\Aspen\Aspen\bin\Debug\Aspen.exe.config
+C:\Users\Biwott\source\repos\Aspen\Aspen\bin\Debug\Aspen.exe
+C:\Users\Biwott\source\repos\Aspen\Aspen\bin\Debug\Aspen.pdb
+C:\Users\Biwott\source\repos\Aspen\Aspen\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Biwott\source\repos\Aspen\Aspen\obj\Debug\Aspen.csprojAssemblyReference.cache
+C:\Users\Biwott\source\repos\Aspen\Aspen\obj\Debug\Aspen.Form1.resources
+C:\Users\Biwott\source\repos\Aspen\Aspen\obj\Debug\Aspen.Properties.Resources.resources
+C:\Users\Biwott\source\repos\Aspen\Aspen\obj\Debug\Aspen.csproj.GenerateResource.cache
+C:\Users\Biwott\source\repos\Aspen\Aspen\obj\Debug\Aspen.csproj.CoreCompileInputs.cache
+C:\Users\Biwott\source\repos\Aspen\Aspen\obj\Debug\Aspen.csproj.CopyComplete
+C:\Users\Biwott\source\repos\Aspen\Aspen\obj\Debug\Aspen.exe
+C:\Users\Biwott\source\repos\Aspen\Aspen\obj\Debug\Aspen.pdb
